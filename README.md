@@ -16,6 +16,8 @@ This is a simple web application that generates random passwords based on user-d
 4. Click the "Generate Password" button to generate a random password based on the selected criteria.
 5. Click the "Copy to Clipboard" button to copy the generated password to the clipboard.
 
+## Explore Here <a href="https://naitikjpatel.github.io/Password-Generator/"/>
+
 ## Preview
 <img width="943" alt="202404020835_Random_Password_Generator_-_Google_Chrome" src="https://github.com/naitikjpatel/Password-Generator/assets/120157810/9cde9a73-3845-48fc-9f02-c6fdf4b4237c">
 <hr>
